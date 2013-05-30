@@ -1,4 +1,4 @@
-tbbalanceamento
+tbbalanceamento-rtc10
 ===============
 
 Trabalho de Alg 3 Balanceamento
